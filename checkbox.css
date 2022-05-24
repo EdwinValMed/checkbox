@@ -1,0 +1,16 @@
+body {
+    background: rgb(153, 177, 118);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.inbox {
+    background-color: aquamarine;
+    width: 50%;
+}
+
+.item {
+    margin-top: 20px;
+    display: flex;
+    
+    align-items: center;
+    
+}
